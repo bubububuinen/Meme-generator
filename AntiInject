@@ -1,0 +1,4 @@
+setInterval(function () {element.innerHTML += "InjectChecker"}, 1000);
+setInterval(displayInjectChecker, 1000);
+if setInterval(displayINJECTDETECTED, 10000000000000000000
+then destroy:main
